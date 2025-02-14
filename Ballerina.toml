@@ -1,0 +1,5 @@
+[package]
+org = "chathurangas"
+name = "mock_petstore"
+version = "0.1.0"
+distribution = "2201.10.3"
